@@ -17,4 +17,29 @@ et al., 2022, chap. Literature review):
 >3. User experience design recommendation for elderly users
 >4. Models of technology acceptance among the general population and older users
 
-![alt text](http://url/to/img.png)
+![prototype-1](https://github.com/isaphu/to-do-list-for-senior-citizen/blob/main/prototype-1.png)
+
+## Challenges
+
+> Here, we write about the code that brought about this feature. Any issue or challenge faced
+when trying to program it. Any solution used and their sources (like stackoverflow). Any
+interesting bit of code’s snippet. Any library or technology used to achieve this feature. Any
+description that sells the idea that it was technically challenging and sort of new in the way we
+did it.
+
+![challenges](https://github.com/isaphu/to-do-list-for-senior-citizen/blob/main/challenges.png)
+
+## User testing and evaluation
+
+> Usability Test: We decided to use the Usability Test as our method of assessment. To gain as much knowledge
+from the user as possible, our planning, including selecting the best applicant to be invited to
+our interview, developing the questions to be asked, and altering our interview flow, was rigorously tested internally.
+
+![user-testing](https://github.com/isaphu/to-do-list-for-senior-citizen/blob/main/user-testing.png)
+
+### Summative Evaluation
+> We extensively tested our prototypes with actual users before sending the same group a survey
+asking them to review the finished product. They were asked to test our finished product and
+provide a score ranging from 1 (least satisfied) to 5 (most satisfied).
+
+![summative-evaluation](https://github.com/isaphu/to-do-list-for-senior-citizen/blob/main/summative-evaluation.png)
